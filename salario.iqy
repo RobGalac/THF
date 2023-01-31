@@ -1,0 +1,12 @@
+WEB
+1
+https://raw.githubusercontent.com/RobGalac/THF/main/Salary_Data.csv
+
+Selection=EntirePage
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=False
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+
